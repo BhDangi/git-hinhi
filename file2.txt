@@ -3,3 +3,5 @@ content is adding to some data
 again some content is adding
 
 add another marketing message section
+
+add footer note
